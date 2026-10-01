@@ -2,4 +2,9 @@ this is the easy way to fix discord down in cambodia i make this using cloudflar
 to install click link 👇👇👇 and allow then open settings General > VPN, DNS, and choose Cloudflare (1.1.1.) install type you passcode done
 https://github.com/zym3393-cell/fixdcambodia/releases/download/dc/dns-1111.mobileconfig
 Google Public DNS
-[Click here to visit GitHub]([https://github.com](https://github.com/MonoRom26/fix-discord-cambodia/releases/download/googleDNS/GoogleDNS.mobileconfig))
+[Download Google DNS Profile for iOS/macOS](https://github.com/MonoRom26/fix-discord-cambodia/releases/download/googleDNS/GoogleDNS.mobileconfig)
+
+
+<a href="https://github.com/MonoRom26/fix-discord-cambodia/releases/download/googleDNS/GoogleDNS.mobileconfig" target="_blank">Download Google DNS Profile for iOS/macOS</a>
+
+[![Download Profile](https://shields.io)](https://github.com/MonoRom26/fix-discord-cambodia/releases/download/googleDNS/GoogleDNS.mobileconfig)
